@@ -12,4 +12,5 @@ b = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("And enter 3rd value");
 c = Convert.ToInt32(Console.ReadLine());
 
-Calculate(a, b, c);
+Calculate(a, b, c); 
+// спец.комментарий, т.к. предудущие ветки были удалены и настроены заново из-за нового локального репозитория
